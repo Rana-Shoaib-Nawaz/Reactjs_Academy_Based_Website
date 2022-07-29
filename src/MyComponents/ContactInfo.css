@@ -1,0 +1,23 @@
+.contactinfo{
+    padding: 2rem;
+    background-color: var(--deep-dark);
+    display: flex;
+    text-align: center;
+    gap: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+.icon{
+    color: var(--white);
+    background-color:antiquewhite;
+    padding: 0.8rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20%;
+    margin-bottom: 0.5rem;
+    display: flex;
+    
+}
+svg{
+    width: 3.5rem;
+}
